@@ -1,7 +1,8 @@
 <h1 align="center" weight="900">Hi 👋, I'm Hardik</h1>
 <h3 align="center">A passionate frontend developer | Learning MERN</h3>
 
-
+<br>
+<br>
 
 # 💫 About Me:
 🔭 I’m currently working on <a href="https://auto-cart-ui.vercel.app/">AutoCart</a><br>
