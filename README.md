@@ -12,7 +12,7 @@
   
 - 📫 How to reach me hardiik003@gmail.com<br>
 
-- 📄 Know about my experiences :- https://drive.google.com/file/u/1/d/12izTo5zhoF2EfRdlX2M6OtsqDz4F7NvV/view
+- 📄 Know about my experiences :- <a href="https://drive.google.com/file/u/1/d/12izTo5zhoF2EfRdlX2M6OtsqDz4F7NvV/view">My_Resume</a>
 
 <br>
 
