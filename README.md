@@ -1,18 +1,17 @@
 <h1 align="center" weight="900">Hi 👋, I'm Hardik</h1>
 <h3 align="center">A passionate frontend developer | Learning MERN</h3>
 <br>
-<br>
-# 💫 About Me:
 
-🔭 I’m currently working on <a href="https://auto-cart-ui.vercel.app/">AutoCart</a><br>
+## 🌐 About Me:
+- 🔭 I’m currently working on <a href="https://auto-cart-ui.vercel.app/">AutoCart</a><br>
 
-🌱 I’m currently learning <b>MERN</b><br>
+- 🌱 I’m currently learning <b>MERN</b><br>
 
-👨‍💻 All of my projects are available at <a href="https://hardiikgit.github.io/Portfolio/">Portfolio</a><br>
+- 👨‍💻 All of my projects are available at <a href="https://hardiikgit.github.io/Portfolio/">Portfolio</a><br>
   
-📫 How to reach me hardiik003@gmail.com<br>
+- 📫 How to reach me hardiik003@gmail.com<br>
 
-📄 Know about my experiences :- https://drive.google.com/file/u/1/d/12izTo5zhoF2EfRdlX2M6OtsqDz4F7NvV/view
+- 📄 Know about my experiences :- https://drive.google.com/file/u/1/d/12izTo5zhoF2EfRdlX2M6OtsqDz4F7NvV/view
 <br>
 <br>
 ## 🌐 Socials:
