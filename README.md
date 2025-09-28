@@ -10,14 +10,11 @@
 <p align="left"><a href="https://www.linkedin.com/in/hardik-033229363/" /></p>
 
 # 💫 About Me:
-🔭 I’m currently working on <a href="https://auto-cart-ui.vercel.app/">AutoCart</a>
+🔭 I’m currently working on <a href="https://auto-cart-ui.vercel.app/">AutoCart</a><br>
 
-<br>
-🌱 I’m currently learning MERN
+🌱 I’m currently learning MERN<br>
 
-<br>
-👨‍💻 All of my projects are available at <a href="https://hardiikgit.github.io/Portfolio/">Portfolio</>
-<br>
+👨‍💻 All of my projects are available at <a href="https://hardiikgit.github.io/Portfolio/">Portfolio</><br>
   
 📫 How to reach me hardiik003@gmail.com
 
