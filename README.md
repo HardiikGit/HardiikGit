@@ -1,13 +1,6 @@
 <h1 align="center" weight="900">Hi 👋, I'm Hardik</h1>
 <h3 align="center">A passionate frontend developer | Learning MERN</h3>
 
-- 👨‍💻 My Portfolio :- https://hardiikgit.github.io/Portfolio/
-
-- 📫 How to reach me **hardiik003@gmail.com**
-
-- 📄 Know about my experiences :- https://drive.google.com/file/u/1/d/12izTo5zhoF2EfRdlX2M6OtsqDz4F7NvV/view
-
-<p align="left"><a href="https://www.linkedin.com/in/hardik-033229363/" /></p>
 
 
 # 💫 About Me:
@@ -17,7 +10,9 @@
 
 👨‍💻 All of my projects are available at <a href="https://hardiikgit.github.io/Portfolio/">Portfolio</a><br>
   
-📫 How to reach me hardiik003@gmail.com
+📫 How to reach me hardiik003@gmail.com<br>
+
+📄 Know about my experiences :- https://drive.google.com/file/u/1/d/12izTo5zhoF2EfRdlX2M6OtsqDz4F7NvV/view
 
 
 ## 🌐 Socials:
