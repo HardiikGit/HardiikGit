@@ -11,11 +11,14 @@
 
 # 💫 About Me:
 🔭 I’m currently working on <a href="https://auto-cart-ui.vercel.app/">AutoCart</a>
+
 <br>
 🌱 I’m currently learning MERN
+
 <br>
 👨‍💻 All of my projects are available at <a href="https://hardiikgit.github.io/Portfolio/">Portfolio</>
 <br>
+  
 📫 How to reach me hardiik003@gmail.com
 
 
