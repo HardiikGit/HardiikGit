@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **hardiik003@gmail.com**
 
-- 📄 Know about my experiences Hardiik_CV (https://drive.google.com/file/u/1/d/12izTo5zhoF2EfRdlX2M6OtsqDz4F7NvV/view)
+- 📄 Know about my experiences :- (https://drive.google.com/file/u/1/d/12izTo5zhoF2EfRdlX2M6OtsqDz4F7NvV/view)
 
 
 <h3 align="left">Connect with me:</h3>
