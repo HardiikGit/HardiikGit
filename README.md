@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://hardiikgit.github.io/Portfolio/">Portfolio</a><br>
   
-- 📫 How to reach me hardiik003@gmail.com<br>
+- 📫 How to reach me <a href="hardiik003@gmail.com">hardiik003@gmail.com</a><br>
 
 - 📄 Know about my experiences :- <a href="https://drive.google.com/file/u/1/d/12izTo5zhoF2EfRdlX2M6OtsqDz4F7NvV/view">My_Resume</a>
 
