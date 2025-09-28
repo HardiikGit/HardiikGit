@@ -1,20 +1,26 @@
 <h1 align="center" weight="900">Hi 👋, I'm Hardik</h1>
 <h3 align="center">A passionate frontend developer | Learning MERN</h3>
 
-- 👨‍💻 My Portfolio :- [https://hardiikgit.github.io/Portfolio/](https://hardiikgit.github.io/Portfolio/)
+- 👨‍💻 My Portfolio :- https://hardiikgit.github.io/Portfolio/
 
 - 📫 How to reach me **hardiik003@gmail.com**
 
 - 📄 Know about my experiences :- https://drive.google.com/file/u/1/d/12izTo5zhoF2EfRdlX2M6OtsqDz4F7NvV/view
 
-<p align="left"> <a href="https://www.linkedin.com/in/hardik-033229363/" /> </p>
+<p align="left"><a href="https://www.linkedin.com/in/hardik-033229363/" /></p>
 
 # 💫 About Me:
-🔭 I’m currently working on AutoCart-Ui<br>🌱 I’m currently learning MERN<br>👨‍💻 All of my projects are available at Portfolio<br>📫 How to reach me hardiik003@gmail.com
+🔭 I’m currently working on <a href="https://auto-cart-ui.vercel.app/">AutoCart</a>
+<br>
+🌱 I’m currently learning <h3>MERN</h3>
+<br>
+👨‍💻 All of my projects are available at <a href="https://hardiikgit.github.io/Portfolio/">Portfolio</>
+<br>
+📫 How to reach me hardiik003@gmail.com
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hardik-033229363/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-033229363/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hardiik003@gmail.com) 
 
 # 💻 Tech Stack:
