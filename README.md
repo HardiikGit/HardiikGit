@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hardik</h1>
+<h1 align="center" weight="900">Hi 👋, I'm Hardik</h1>
 <h3 align="center">A passionate frontend developer | Learning MERN</h3>
 
-- 👨‍💻 All of my projects are available at [https://hardiikgit.github.io/Portfolio/](https://hardiikgit.github.io/Portfolio/)
+- 👨‍💻 My Portfolio :- [https://hardiikgit.github.io/Portfolio/](https://hardiikgit.github.io/Portfolio/)
 
 - 📫 How to reach me **hardiik003@gmail.com**
 
